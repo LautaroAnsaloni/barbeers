@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*barbeer-app": ["./src/*"]
+      "@/*barbeer-app": ["./src/*"],
+      "@/dbConfig/*": ["./src/dbConfig/*"],
     }
   }
 }
